@@ -6,6 +6,7 @@ module.exports = {
    jest: true, 
   }, 
   
+  
   extends: ['plugin:react/recommended', 'airbnb', 'airbnb/hooks', 'plugin:prettier/recommended'], 
   
   parserOptions: { 
